@@ -4,6 +4,8 @@
 
 [202009](journal/202009.md)
 
+## [Git使用](git/tutorial.md)
+
 ## leetcood
 
 1. 数组 链表
