@@ -6,7 +6,7 @@
 
 ## [Git使用](git/tutorial.md)
 
-## leetcood
+## Leetcode
 
 ### [题型](leetcode/readme.md)
 
