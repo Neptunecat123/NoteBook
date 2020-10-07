@@ -4,6 +4,8 @@
 
 [202009](journal/202009.md)
 
+[202010](journal/202010.md)
+
 ## [Git使用](git/tutorial.md)
 
 ## Leetcode
