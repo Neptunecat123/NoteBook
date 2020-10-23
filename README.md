@@ -20,7 +20,7 @@
 
 ### 标准库
 
-To be continued
+[collections](python/collections.md)
 
 ### 第三方库
 
