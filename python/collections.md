@@ -58,7 +58,34 @@ pass
 
 ## Counter
 
-pass
+一个计数器工具提供快速和方便的计数。
+
+一个 Counter 是一个 dict 的子类，用于计数可哈希对象。它是一个集合，元素像字典键(key)一样存储，它们的计数存储为值。计数可以是任何整数值，包括0和负数。
+
+    from collections import Counter
+    cnt1 = Counter([1, 2, 1, 1, 1, 1, 2, 2, 3, 3, 3])
+    print(cnt1)
+    print(cnt1[1])
+    for num, count in cnt1.items():
+        print(num, count)
+    cnt2 = Counter("abcdabcdaaa")
+    print(cnt2)
+    c3 = Counter({'red': 4, 'blue': 2})
+    print(c3)
+    c4 = Counter(cats=4, dogs=8)
+    print(c4)
+    c5 = Counter(['eggs', 'ham'])
+    print(c5)
+    ------
+    Counter({1: 5, 2: 3, 3: 3})
+    5
+    1 5
+    2 3
+    3 3
+    Counter({'a': 5, 'b': 2, 'c': 2, 'd': 2})
+    Counter({'red': 4, 'blue': 2})
+    Counter({'dogs': 8, 'cats': 4})
+    Counter({'eggs': 1, 'ham': 1})
 
 ## OrderedDict
 
