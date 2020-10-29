@@ -50,7 +50,55 @@ pass
 
 ## deque
 
-pass
+效率较高的对列表插入删除的数据类型。Deque 支持线程安全，内存高效添加(append)和弹出(pop)，从两端都可以，两个方向的大概开销都是 O(1) 复杂度。
+
+双向队列(deque)对象支持以下方法：
+
+append(x)
+添加 x 到右端。
+
+appendleft(x)
+添加 x 到左端。
+
+clear()
+移除所有元素，使其长度为0.
+
+copy()
+创建一份浅拷贝。
+
+count(x)
+计算 deque 中元素等于 x 的个数。
+
+extend(iterable)
+扩展deque的右侧，通过添加iterable参数中的元素。
+
+extendleft(iterable)
+扩展deque的左侧，通过添加iterable参数中的元素。注意，左添加时，在结果中iterable参数中的顺序将被反过来添加。
+
+index(x[, start[, stop]])
+返回 x 在 deque 中的位置（在索引 start 之后，索引 stop 之前）。 返回第一个匹配项，如果未找到则引发 ValueError。
+
+insert(i, x)
+在位置 i 插入 x 。
+
+如果插入会导致一个限长 deque 超出长度 maxlen 的话，就引发一个 IndexError。
+
+pop()
+移去并且返回一个元素，deque 最右侧的那一个。 如果没有元素的话，就引发一个 IndexError。
+
+popleft()
+移去并且返回一个元素，deque 最左侧的那一个。 如果没有元素的话，就引发 IndexError。
+
+remove(value)
+移除找到的第一个 value。 如果没有的话就引发 ValueError。
+
+reverse()
+将deque逆序排列。返回 None 。
+
+rotate(n=1)
+向右循环移动 n 步。 如果 n 是负数，就向左循环。
+
+如果deque不是空的，向右循环移动一步就等价于 d.appendleft(d.pop()) ， 向左循环一步就等价于 d.append(d.popleft()) 。
 
 ## ChainMap
 
