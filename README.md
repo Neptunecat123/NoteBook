@@ -8,9 +8,7 @@
 
 ## [Git使用](git/tutorial.md)
 
-## Leetcode
-
-### [题型](leetcode/readme.md)
+## [Leetcode题型](leetcode/readme.md)
 
 ## Python语言
 
