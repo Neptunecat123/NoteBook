@@ -14,9 +14,9 @@ pass
 
 Python 标准库非常庞大，所提供的组件涉及范围十分广泛。这个库包含了多个内置模块 (以 C 编写)，Python 程序员必须依靠它们来实现系统级功能，例如文件 I/O，此外还有大量以 Python 编写的模块，提供了日常编程中许多问题的标准解决方案。
 
-### &sect;3.2.1 [内置函数]()
+### &sect;3.2.1 [内置函数](https://docs.python.org/zh-cn/3/library/functions.html)
 1. [enumerate(iterable, start=0)](python/enumerate.md)
-2. [zip()]()
+2. [zip(*iterables)]()
 3. [iter()]()
 
 ### &sect;3.2.2 [内置类型]()
