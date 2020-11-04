@@ -2,7 +2,7 @@
 
 ## &sect;1 [Git使用](git/tutorial.md)
 
-## &sect;2 [Leetcode题型](leetcode/readme.md)
+## &sect;2 [算法](leetcode/readme.md)
 
 ## &sect;3 Python语言
 
@@ -43,10 +43,16 @@ to be continue
 
 To be continued
 
-## &sect;5 VUE学习
+## &sect;5 移动端
 
 To be continued
 
-## &sect;6 APP
+## &sect;6 C/C++
 
 To be continued
+
+## &sect;7 计算机体系结构
+
+To be continued
+
+## &sect;8 实践
