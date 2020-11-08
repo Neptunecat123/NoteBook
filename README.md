@@ -28,6 +28,7 @@ Python 标准库非常庞大，所提供的组件涉及范围十分广泛。这�
 
 1. [collections](python/collections.md)
 2. [abc抽象基类](python/abc.md)
+3. [排序指南](python/sort.md)
 
 ### &sect;3.2.4 TBC
 
