@@ -30,9 +30,9 @@ Python 标准库非常庞大，所提供的组件涉及范围十分广泛。这�
 2. [abc抽象基类](python/abc.md)
 3. [排序指南](python/sort.md)
 
-### &sect;3.2.4 TBC
+### &sect;3.2.4 pythonic代码段收录
 
-to be continue
+to be continued
 
 ### &sect;3.3 第三方库
 
