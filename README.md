@@ -8,7 +8,33 @@
 
 ### &sect;3.1 [核心语义](https://docs.python.org/zh-cn/3/tutorial/index.html#tutorial-index)
 
-pass
+#### 数据结构
+
+##### 列表
+
+##### del语句
+
+##### 元组/序列
+
+##### 集合
+
+##### 字典
+
+##### 序列的循环
+
+#### 模块
+
+##### 标准模块
+
+##### dir()函数
+
+##### 包
+
+#### 输入输出
+
+#### 错误和异常
+
+#### 类
 
 ### &sect;3.2 [标准库](https://docs.python.org/zh-cn/3/library/#metavar)
 
@@ -51,13 +77,59 @@ To be continued
 
 ## &sect;6 C/C++
 
-To be continued
+### &sect;6.1 [C](c_cpp/c.md)
+
+### &sect;6.2 [C++]()
 
 ## &sect;7 计算机体系结构
 
-To be continued
+《深入理解计算机系统》总结
+
+### &sect;7.1 信息的表示和处理
+
+### &sect;7.2 程序的机器表示
+
+### &sect;7.3 处理器体系结构
+
+### &sect;7.4 优化程序性能
+
+### &sect;7.5 存储器层次结构
+
+### &sect;7.6 链接
+
+### &sect;7.7 异常控制流
+
+### &sect;7.8 虚拟内存
+
+### &sect;7.9 系统I/O
+
+### &sect;7.10 网络编程
+
+### &sect;7.11 并发编程
 
 ## &sect;8 Shell
+
+### &sect;8.1 vim
+
+To be continued
+
+### &sect;8.2 常用系统命令
+
+用户/组
+
+cron计划任务
+
+性能监控
+
+网络配置
+
+等
+
+### &sect;8.3 shell脚本
+
+To be continued
+
+### &sect;8.4 三大工具：grep/sed/awk
 
 To be continued
 
