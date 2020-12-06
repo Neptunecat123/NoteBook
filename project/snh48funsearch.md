@@ -57,14 +57,3 @@
 |team|所属队|
 |unit|unit名单|
 |mc|mc话题|
-
-### 5. CP表
-
-> CP_info
-
-|字段|含义|
-|----|----|
-|id|自增编号[primary key]|
-|cp_name|CP名称|
-|xox_names|xoxs|
-|status|状态：good, be, unknown, avoid|
