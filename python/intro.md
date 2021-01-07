@@ -54,9 +54,45 @@ Python 标准库非常庞大，所提供的组件涉及范围十分广泛。这�
 
 ## 一些pythonic片段
 
-### &sect;3.2.4 pythonic代码段收录
+### 1. bool判断是否有重复元素
 
-to be continued
+集合的使用，判断原列表和集合后的列表是否个数相同。
+
+```python
+len(lst) == len(set(lst))
+```
+
+来源：Python程序员微信公众号 2021-01-07
+
+### 2. bool判断组成字符串元素是否一致
+
+判断两个字符串字符组成和个数都一致
+
+```python
+from collections import Counter
+Counter(string_1) == Counter(string_2)
+```
+
+来源：Python程序员微信公众号 2021-01-07
+
+### 3. 字符串重复打印
+
+```python
+print("abc" * 3)
+```
+
+重复打印3遍
+
+### 4. 将2个列表组成一个字典
+
+```python
+a = ['x', 'y', 'z']
+b = [1, 2, 3]
+
+print(dict(zip(a, b)))
+```
+
+output: {'x': 1, 'y': 2, 'z': 3}
 
 ## 第三方库
 
