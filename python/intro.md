@@ -1,10 +1,6 @@
-# NoteBook
+# Python语言
 
-## &sect;1 [Git使用](git/tutorial.md)
-
-## &sect;2 [算法](leetcode/readme.md)
-
-## &sect;3 Python语言
+## 基础部分
 
 ### &sect;3.1 [核心语义](https://docs.python.org/zh-cn/3/tutorial/index.html#tutorial-index)
 
@@ -56,93 +52,14 @@ Python 标准库非常庞大，所提供的组件涉及范围十分广泛。这�
 2. [abc抽象基类](python/abc.md)
 3. [排序指南](python/sort.md)
 
+## 一些pythonic片段
+
 ### &sect;3.2.4 pythonic代码段收录
 
 to be continued
 
-### &sect;3.3 第三方库
+## 第三方库
 
 1. [argparse](https://docs.python.org/zh-cn/3/howto/argparse.html)命令行解析模块
 2. [requests]()
 3. [Flask]()
-
-
-## &sect;4 JS学习
-
-To be continued
-
-## &sect;5 移动端
-
-To be continued
-
-## &sect;6 C/C++
-
-### &sect;6.1 [C](c_cpp/c.md)
-
-### &sect;6.2 [C++]()
-
-## &sect;7 计算机体系结构
-
-《深入理解计算机系统》总结
-
-### &sect;7.1 信息的表示和处理
-
-### &sect;7.2 程序的机器表示
-
-### &sect;7.3 处理器体系结构
-
-### &sect;7.4 优化程序性能
-
-### &sect;7.5 存储器层次结构
-
-### &sect;7.6 链接
-
-### &sect;7.7 异常控制流
-
-### &sect;7.8 虚拟内存
-
-### &sect;7.9 系统I/O
-
-### &sect;7.10 网络编程
-
-### &sect;7.11 并发编程
-
-## &sect;8 Shell
-
-### &sect;8.1 vim
-
-To be continued
-
-### &sect;8.2 常用系统命令
-
-用户/组
-
-cron计划任务
-
-性能监控
-
-网络配置
-
-等
-
-### &sect;8.3 shell脚本
-
-To be continued
-
-### &sect;8.4 三大工具：grep/sed/awk
-
-To be continued
-
-## &sect;9 实践
-
-### &sect;9.1 网站
-
-to be continued
-
-### &sect;9.2 APP
-
-To be continued
-
-## &sect;x 其他记录
-
-To be continued
